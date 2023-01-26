@@ -28,3 +28,8 @@ module.exports = {
    nuevaMultiplicacion,
    nuevoModulo,
 };
+if (valor === true) {
+   return true;
+} else (valor === false) {
+   return false;
+}
